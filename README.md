@@ -1,2 +1,1 @@
-# My GitHub Project
-оновлення
+# GitHub Project
